@@ -193,6 +193,8 @@ public class DeferredRegisterItems
 
     public static final RegistryObject<Item> PEDESTAL_UPGRADE_RFGENERATOR = ITEMS.register("upgrade_pedestal_generator",
             () -> new ItemUpgradeGenerator_FurnaceFuels(new Item.Properties().tab(PedestalsTab.TAB_ITEMS)));
+    public static final RegistryObject<Item> PEDESTAL_UPGRADE_RFCHARGER = ITEMS.register("upgrade_pedestal_rfcharger",
+            () -> new ItemUpgradeCharger(new Item.Properties().tab(PedestalsTab.TAB_ITEMS)));
 
 
     public static final RegistryObject<Item> PEDESTAL_UPGRADE_COBBLEGEN = ITEMS.register("upgrade_pedestal_cobblegen",

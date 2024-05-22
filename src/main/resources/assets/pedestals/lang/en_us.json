@@ -630,6 +630,10 @@
   "jei.pedestals.upgrade_pedestal_generator.description": "§5Burns Vanilla Furnace Fuels for RF Production",
   "jei.pedestals.upgrade_pedestal_generator.interaction": "§3Requires Fuel to be put into the pedestal.",
 
+  "item.pedestals.upgrade_pedestal_rfcharger": "FE Charger Upgrade",
+  "jei.pedestals.upgrade_pedestal_rfcharger.description": "§5Takes Items from Below Inventory and charges them with FE energy from the pedestals storage",
+  "jei.pedestals.upgrade_pedestal_rfcharger.interaction": "§3Requires Inventory 'Below' Pedestal.",
+
   "item.pedestals.upgrade_pedestal_breaker": "Breaker Upgrade",
   "jei.pedestals.upgrade_pedestal_breaker.description": "§5'Breaks Blocks in the selected work area. Uses a Stone Pickaxe by default",
   "jei.pedestals.upgrade_pedestal_breaker.interaction": "§3Uses either Work Area (Card) or Work Locations (Card) to define the area in which it operates.",
